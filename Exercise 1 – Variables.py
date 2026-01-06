@@ -8,4 +8,4 @@ print("Test Version:", test_version)
 print("Test Passed:", is_test_passed)
 # Comments explain the code:
 # "Browser Name:" → just some text to explain what we are printing (shown on the screen)
-# browser_name → the actual value stored in the variable
+# browser_name → the actual value stored in the variable 
